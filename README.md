@@ -1,3 +1,3 @@
 # "yaourt-latex"
 
-"yaourt-latex" aka "Yet AnOther Usable Resume Template" is just another LaTeX class for writing a resume.
+"yaourt-latex" AKA "Yet AnOther Usable Resume Template" is just another LaTeX class for writing a resume.
